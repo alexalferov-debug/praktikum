@@ -1,6 +1,6 @@
 public class Converter {
 
-    final static int centimetersInOneStep = 75;
+    final static int centimetersInOneStep = 78;
     final static int centimetersInMeter = 100;
     final static int metersInKillometer = 1000;
     final static double kilocaloriesInOneStep = 0.05;
